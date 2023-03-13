@@ -26,6 +26,12 @@
 <p align="left">
 <a href="https://codepen.io/abdulloh5007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdulloh5007" height="30" width="40" /></a>
 <a href="https://instagram.com/a_.baxodirovich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_.baxodirovich" height="30" width="40" /></a>
+<a href="mailto:abdulloh50007@gmail.com">
+  <img align="center" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://t.me/a_baxodirovich">
+<img align="center" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg"/>
+</a>
 </p>
 
 <br/>
